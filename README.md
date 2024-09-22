@@ -4,7 +4,8 @@
 This is a live chat feature designed for CPSC 362: Software Engineering Foundations. This project aims to facilitate real-time user-to-user communication via private or group chats. Individuals may quickly send messages, join chat groups, and create profiles.
 
 ## Product Vision 
-[Video Title](path-)
+![Product Vision Video](path-to-video-file)
+
 
 
 ## Features 
